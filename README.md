@@ -1,2 +1,2 @@
-# crypto-dashboard
+# Crypto_Dashboard
 Crypto Detection Dashboard Frontend
